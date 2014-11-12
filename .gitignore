@@ -1,0 +1,4 @@
+*.zip
+*.xcodeproj
+.DS_Store
+*.framework
